@@ -2,6 +2,7 @@
     "name": "Brief Self Control Scale Survey",
     "template":"survey",
     "exp_id": "brief-self-control-survey",
+    "url": "https://github.com/expfactory-experiments/brief-self-control-survey",
     "cognitive_atlas_task_id": "trm_56a915461cd91",
     "contributors": [
              "Zeynep Enkavi",
