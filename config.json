@@ -1,0 +1,18 @@
+{
+    "name": "Brief Self Control Scale Survey",
+    "template":"survey",
+    "exp_id": "brief-self-control-survey",
+    "cognitive_atlas_task_id": "trm_56a915461cd91",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":3,
+    "reference": ["http://onlinelibrary.wiley.com/store/10.1111/j.0022-3506.2004.00263.x/asset/j.0022-3506.2004.00263.x.pdf?v=1&t=if8jvr1r&s=74fff21a9b298525f1d085ee85c78cb34c9a02fb"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+
+}
